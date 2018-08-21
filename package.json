@@ -1,0 +1,16 @@
+{
+  "name": "long-messages",
+  "version": "0.0.0",
+  "description": "Bookmarklet to let users post messages longer than 2000 characters to discord",
+  "main": "",
+  "author": "FieldMousse",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-loader": "^4.4.2",
+    "typescript": "^3.0.1",
+    "webpack": "^4.16.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
